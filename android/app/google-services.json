@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225174213909",
+    "project_id": "cs442-se2",
+    "storage_bucket": "cs442-se2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225174213909:android:3120828fce1117afc5851c",
+        "android_client_info": {
+          "package_name": "com.smartgrocery.smartgrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225174213909-mqpn5l88fam2eliemjvo2k32cc85t93k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartgrocery.smartgrocery",
+            "certificate_hash": "9c3e5a140db46d19f9ea25a52f0fbd61dbb8b9d7"
+          }
+        },
+        {
+          "client_id": "225174213909-o8olqgul487gi4nrqp4dlfge82vs40eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_RSs0RlQtOhfEUezJjUecdbCGEP94Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225174213909-ggcq39pchqpja44us5bgd4edc2b3pa3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
